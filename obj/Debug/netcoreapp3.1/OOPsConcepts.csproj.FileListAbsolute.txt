@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.exe
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.deps.json
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.runtimeconfig.json
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.dll
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\bin\Debug\netcoreapp3.1\OOPsConcepts.pdb
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.sourcelink.json
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.dll
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.pdb
+C:\Users\Hp\source\repos\OOPsConcepts\OOPsConcepts\obj\Debug\netcoreapp3.1\OOPsConcepts.genruntimeconfig.cache
